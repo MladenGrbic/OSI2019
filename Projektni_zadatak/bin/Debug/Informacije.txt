@@ -1,0 +1,10 @@
+Aplikacija omogućava korisniku pregled događaja u određenom gradu. Sa lijeve strane se nalaze sledeće opcije:
+1) početna - omogućava pregled svih događaja nezavisno od kategorije
+2) kategorije - omogućava korisniku pretraživanje događaja samo određene kategorije
+3) prikaz po datumu - omogućava pregled prošlih, sadašnjih i budućih događaja. Ovdje prikazuje događaje svih kategorija
+4) o aplikaciji - klikom na ovu opciju dobijate detaljnije uputstvo za korištenje aplikacije, a naravno i informacije o tome ko je
+	        napravio
+5) kviz - omogućava korisniku igranje kviza iz opšteg znanja.
+
+Na razvijanju aplikacije su učestvovali studenti druge godine Elektrotehničkog fakulteta, a njihova imena su: Tanja Guduraš,
+Mladen Grbić, Stefan Kapetanović, Danilo Vrančić i Bojan Jazić.

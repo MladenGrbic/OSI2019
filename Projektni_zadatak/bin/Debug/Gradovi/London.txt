@@ -1,0 +1,11 @@
+Pitanje,Odgovor1,Odgovor2,Odgovor3,TacanOdgovor
+Koja velika rijeka protice kroz London?,Po,Dunav,Temza,Temza
+Koje godine je izgradjen poznati most Tauerbridz(engl. Tower Bridge)?,1894.,1846.,1799.,1894.
+Koliko London ima stanovnika prema procjeni iz 2008. godine?,7.5mil,9.23mil,6.6mil,7.5mil
+Prvo vece naselje na prostoru danasnjeg Londona su osnovali Rimljani koje godine?,43.,58. p.n.e.,294.,43.
+London je glavni grad koje konstitutivne drzave Ujedinjenog Kraljevstva?,Skotske,Engleske,Velsa,Engleske
+Koja zgrada je sjediste Parlamenta Ujedinjenog Kraljevstva Velike Britanije i Sjeverne Irske?,Vestminsterska palata,Bakingamska palata,Britanska biblioteka,Vestminsterska palata
+London je jedini grad koji je ugostio Ljetne olimpijske igre koliko puta?,6,3,4,3
+U kojem periodu je London predstavljao najvecu gradsku povrsinu na svijetu?,1701.-1811.,1831.-1925.,1940.-1967.,1831.-1925.
+Koliko priblizno knjiga ukljucuje kolekcija Britanske biblioteke?,11.5mil,18mil,14mil,14mil
+Nacionalnu galeriju Londona godisnje posjeti koliko ljudi?,4-5mil,1-2mil,9-11mil,4-5mil

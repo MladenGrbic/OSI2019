@@ -1,0 +1,11 @@
+Pitanje,Odgovor1,Odgovor2,Odgovor3,TacanOdgovor
+Broj stanovnika u Parizu je ?,oko 2 miliona ,oko 3 miliona ,oko 3.5 miliona,oko 2 miliona
+Koja rijeka protice kroz Pariz ?,Oder,Sena,Po,Sena
+Koliko je visok Ajfelov toranj?,350m,324m,400m,324m
+Najpoznatiji muzej u Parizu?,Prado,Louvre,Rijksmuseum,Louvre 
+Za Pariz kazemo da je?,grad svjetlosti,grad tame,grad mode,grad svjetlosti
+Univerzitet u Parizu?,Klod Bernar,Sorbona,Sophia Antipolis,Sorbona
+Koliko kipova slobode se nalazi u Parizu?,1,2,3,3
+Poznata kapija u Parizu?,Pariska,Francuska,Trijumfalna,Trijumfalna
+Poznata katedrala u Parizu?,Notr Dam,Sant Jean Baptiste,Saint Peter,Notr Dam
+Koliko turista godisnje posjeti Pariz?,oko 10 hiljada,pola miliona,45 miliona,45 miliona

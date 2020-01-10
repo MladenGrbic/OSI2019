@@ -1,0 +1,11 @@
+Pitanje,Odgovor1,Odgovor2,Odgovor3,TacanOdgovor
+Koliko stanovnika ima Moskva prema popisu iz 2015. godine?,14.5mil,12mil,8mil,12mil
+Iz kojeg vijeka poticu prve naseobine Slovena na podrucju danasnje Moskve?,VI,VIII,III,VI
+Pod kojim nazivom je poznat moskovski gradski trg?,Crveni trg,Moskovski trg,Centralni trg,Crveni trg
+Kako se naziva utvrdjeni kompleks grada?,Crveni trg,Aleksandrova basta,Moskovski Kremlj,Moskovski Kremlj
+2007. godine Moskva je drugi put za redom proglasena kao...,Najljepsi grad,Najskuplji grad,Najveci grad,Najskuplji grad
+Koliko Moskovljana je u Drugom svjetskom ratu branilo Moskvu?,500000,150000,350000,500000
+Hram karakteristicnih sarenih kupola na Crvenom trgu naziva se...,Hram Vasilija Blazenog,Hram Svete Trojice,Hram Aleksandra Nevskog,Hram Vasilija Blazenog
+Moskva je dobila naziv po istoimenoj...,Niziji,Planini,Rijeci,Rijeci
+Koje godine su u Moskvi odrzane Ljetne olimpijske igre?,1905.,1980.,2004.,1980.
+Moskva je bila domacin prvih Svjetskih igara mladih koje godine?,1998.,2001.,1974.,1998.

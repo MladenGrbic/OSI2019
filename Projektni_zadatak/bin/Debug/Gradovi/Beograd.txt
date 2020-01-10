@@ -1,0 +1,11 @@
+Pitanje,Odgovor1,Odgovor2,Odgovor3,TacanOdgovor
+Ko je trenutni gradonacelnik Beograda (2020. god.)?,Sinisa Mali,Zoran Radojicic,Nenad Bogdanovic,Zoran Radojicic
+Koliko Beograd ima gradskih opstina?,11,13,17,17
+Koje godine je Beograd bombardovan od strane NATO saveza?,1995.,1998.,1999.,1999.
+Koliki je broj stanovnika u Beogradu prema popisu iz 2011?,900000,1150000,1400000,1150000
+Kako se zove najveci srpski pravoslavni hram u Beogradu; a ujedno i na Balkanu?,Hram Svetog Save,Hram Hrista Spasitelja,Saborni hram Svete Trojice,Hram Svetog Save
+Kako se Beograd zvao u rimskom carstvu?,Nandoralba,Veligradon,Singidunum,Singidunum
+Odaberi festival koji se odrzava u gradu Beogradu,FEST (Medjunarodni filmski festival),EXIT (Muzicki festival),Arsenal (Muzicki festival),FEST (Medjunarodni filmski festival)
+Kako se zove beogradski aerodrom?,Aerodrom Nikola Tesla,Aerodrom Milos Obrenovic,Aerodrom Mihajlo Pupin,Aerodrom Nikola Tesla
+Pronadji beogradsko naselje.,Petrovaradin,Obilicevo,Lazarevac,Lazarevac
+U kojoj ulici u Beogradu je dobitnik Nobelove nagrade Ivo Andric napisao "Na Drini cuprija"?,Nemanjina ulica,Prizrenska ulica,Knez Mihajlova,Prizrenska ulica

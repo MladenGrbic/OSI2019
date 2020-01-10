@@ -1,0 +1,16 @@
+D:\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\Login\Login\obj\Debug\Login.Form1.resources
+D:\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Login\Login\bin\Debug\Login.exe.config
+D:\Login\Login\bin\Debug\Login.exe
+D:\Login\Login\bin\Debug\Login.pdb
+D:\Login\Login\obj\Debug\Login.exe
+D:\Login\Login\obj\Debug\Login.pdb
+D:\Login\Login\obj\Debug\Login.Form2.resources
+D:\Login\Login\obj\Debug\Login.Prva.resources
+D:\Login\Login\obj\Debug\Login.uredidodaj.resources
+D:\Login\Login\obj\Debug\Login.dodajNovi.resources
+D:\Login\Login\obj\Debug\Login.ocitajDogadjajsaKoment.resources
+D:\Login\Login\obj\Debug\Login.Pocetna.resources
+D:\Login\Login\obj\Debug\Login.dodizkat.resources

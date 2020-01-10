@@ -1,0 +1,11 @@
+Pitanje,Odgovor1,Odgovor2,Odgovor3,TacanOdgovor
+Koji narod nije zivio na prostoru Apeninskog poluostrva prije osnivanja grada Rima?,Latini,Kelti,Asirci,Asirci
+Kada je prema legendi osnovan grad Rim?,753. god. p.n.e.,756. god. p.n.e.,736. god. p.n.e.,753. god. p.n.e.
+Koje je godine izgradjen Koloseum u Rimu?,70. god. p.n.e,105. god. p.n.e,93. god. p.n.e,70. god. p.n.e
+Koliki je broj stanovnika u Rimu?,oko 2.4 miliona,oko 2.8 miliona,oko 3.4 miliona,oko 2.8 miliona
+Koji je univerzitet prvi osnovan u gradu?,La Sapienza,Tor Vergata,Roma Tre,La Sapienza
+Koliko Rim ima aerodroma?,1,2,3,3
+Koje se boje nalaze na zastavi grada Rima?,Zuta i Bijela,Crvena i Zuta,Crvena i Plava,Crvena i Zuta
+Znameniti spomenik "hram svim bogovima" u Rimu se naziva:,Partenon,Panteon,Domus Aurea,Panteon
+Kada su odrzanje ljetne olimpijske igre u Rimu?,1960.,1980.,1972.,1960.
+Kako se zove poznati muzicki festival u Rimu?,Vida Festival,Gala Festival,Wireless Festival,Vida Festival

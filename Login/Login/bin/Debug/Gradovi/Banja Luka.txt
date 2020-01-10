@@ -1,0 +1,11 @@
+Pitanje,Odgovor1,Odgovor2,Odgovor3,TacanOdgovor
+Iz kojeg perioda datiraju najstarija kamena orudja pronadjena na prostoru tvrdjave Kastel u Banjoj Luci?,Neolit,Paleolit,Eneolit,Paleolit
+Koja imperija je prva podigla utvrdjenje pod nazivom Kastra na prostoru danasnjeg Kastela?,Rimsko carstvo,Osmansko carstvo,Stara Grcka,Rimsko carstvo
+Banja Luka je grad izgradjen na obalama koje rijeke?,Dunava,Vrbasa,Drine,Vrbasa
+Koliko priblizno stanovnika ima Banja Luka prema popisu iz 2013. godine?,225000,290000,135000,135000
+Koje godine se u Banjoj Luci desio razorni zemljotres magnitute 6.4 stepena po Rihterovoj skali?,1975.,1969.,1958.,1969.
+Koliko fakulteta/akademija ima Univerzitet u Banjoj Luci?,13,8,17,17
+Sta je zgrada danasnjeg Muzeja savremene umjetnosti bila u Austrougarskoj?,Zeljeznicka stanica,Katedrala,Gradska opstina,Zeljeznicka stanica
+Ko je izgradio zgradu danas poznatu pod nazivom Palata Republike?,Svetislav Milosavljevic,Petar Kocic,Kralj Alfons XIII,Svetislav Milosavljevic
+Narodno pozoriste Republike Srpske osnovano je koje godine?,1989.,1899.,1930.,1930.
+Kojem srpskom knjizevniku je posvecen jedan gradski park?,Dusanu Radovicu,Branku Copicu,Petru Kocicu,Petru Kocicu
